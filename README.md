@@ -6,9 +6,10 @@ Examine revenue trends over time.
 
 Detect seasonal or time-based sales fluctuations.
 
-## Dataset Used :  
+## Dataset Used :
+
 <a href="https://github.com/SanatMishra12/Blinkit-Data-Analysis-Interactive-Dashboard-Creation-Using-MS-Excel-/blob/main/Blinkit%20dashboard.xlsx">Dataset</a>
-<a href="">DashboardScreenshot</a>
+
 ## Questions (KPIs) : 
 
 1. Total Sales : The overall revenue generated from all items sold.
@@ -24,6 +25,8 @@ Detect seasonal or time-based sales fluctuations.
 4. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard : 
+<a href="https://github.com/SanatMishra12/Blinkit-Data-Analysis-Interactive-Dashboard-Creation-Using-MS-Excel-/blob/main/Screenshot%202025-08-10%20142359.png">DashboardScreenshot</a>
+
 
 
    
