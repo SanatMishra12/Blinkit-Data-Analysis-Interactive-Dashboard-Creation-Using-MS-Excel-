@@ -27,6 +27,9 @@ Detect seasonal or time-based sales fluctuations.
 ## Dashboard : 
 <a href="https://github.com/SanatMishra12/Blinkit-Data-Analysis-Interactive-Dashboard-Creation-Using-MS-Excel-/blob/main/Screenshot%202025-08-10%20142359.png">DashboardScreenshot</a>
 
+<img width="1190" height="642" alt="Screenshot 2025-08-10 142359" src="https://github.com/user-attachments/assets/4b115022-61ef-4fa7-aec9-38fa477d5ab8" />
+
+
 
 
    
