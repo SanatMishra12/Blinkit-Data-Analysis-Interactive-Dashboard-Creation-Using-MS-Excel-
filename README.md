@@ -7,8 +7,8 @@ Examine revenue trends over time.
 Detect seasonal or time-based sales fluctuations.
 
 ## Dataset Used :  
-<a href="https://github.com/SanatMishra12/Blinkit-Data-Analysis-Interactive-Dashboard-Creation-Using-MS-Excel-/blob/main/Blinkit%20dashboard.xlsx">Dataset and Dashboard</a>
-
+<a href="https://github.com/SanatMishra12/Blinkit-Data-Analysis-Interactive-Dashboard-Creation-Using-MS-Excel-/blob/main/Blinkit%20dashboard.xlsx">Dataset</a>
+<a href="">DashboardScreenshot</a>
 ## Questions (KPIs) : 
 
 1. Total Sales : The overall revenue generated from all items sold.
