@@ -33,6 +33,18 @@ Detect seasonal or time-based sales fluctuations.
 <img width="1190" height="642" alt="Screenshot 2025-08-10 142359" src="https://github.com/user-attachments/assets/4b115022-61ef-4fa7-aec9-38fa477d5ab8" />
 
 
+## Project Insight : 
+
+1. Low Fat Contents has maximum Total Sales(65%) as compared to Regular fats.
+2. Fruits and Vegetables has maximun Total Sales.
+3. Tier 3 location has the highest geographic distribution of sales across different locations.
+4. Average Rating is 4.0.
+
+
+
+   
+
+
 
 
    
